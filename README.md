@@ -36,9 +36,10 @@
 
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com)[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-grey?style=flat-square&logo=digitalocean)](https://digitalocean.com) 
 
- ## **Hobbies :💳♟**Ok chess is always my thing🥰
-**  [![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.com)🎧
-I play my own!🤹🏿‍♀
+ ## **Hobbies :💳♟**
+Ok chess is always my thing🥰
+ [![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.ccom)_🤹🏿‍♀
+
 ## **Contact Me:** 
 
  <p align="center"> 
