@@ -1,32 +1,32 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile😊)](https://git.io/typing-svg)
 
- # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **DEPRO**
+ # **KIPROTICH**<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **DEPRO**
 
   
 
- - **TG DEPRO** 
+ - **TG DEPRO** 👨‍💼
 
- - **upcoming perfectionist** 
+ - **upcoming perfectionist** 👨‍💻
 
  - **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Nim](https://nim-lang.org) Lover 💖** 
 
- - **I mostly focus on [Python](https://python.org) and [Nim](https://nim-lang.org)** 
+ - **I mostly focus on [Python](https://python.org) and [Nim](https://nim-lang.org)** 🔬
 
- - **My Everyday usage is based on: `.py` `.nim` `.sh`** 
+ - **My Everyday usage is based on: `.py` `.nim` `.sh`** 📜
 
  ## 👦 **About me**: 
 
- ## **Languages I currently know :** 
+ ## **Languages I currently know :** 🗞
 
  [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)  [![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=php)](https://php.net) 
 
- ## **Languages I am Learning :** 
+ ## **Languages I am Learning :** 📝
 
  [![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://nodejs.org)  [![Go](https://img.shields.io/badge/-Go-%232c3e50?style=flat-square&logo=go)](https://golang.org)  [![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=flat-square&logo=rust)](https://rust-lang.org) 
 
   
 
- ## **My Tech Stack I use Everyday:**  
+ ## **My Tech Stack I use Everyday:**  🗂
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com) [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)  
 
@@ -36,11 +36,9 @@
 
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com)[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-grey?style=flat-square&logo=digitalocean)](https://digitalocean.com) 
 
- ## **Hobbies :💳♟**
-**  [![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.com)  [![PhotoShop](https://img.shields.io/badge/-PhotoShop-%23007ACC?style=flat-square&logo=Adobe)](https://www.adobe.com/products/photoshop.html)**
-
- 
-
+ ## **Hobbies :💳♟**Ok chess is always my thing🥰
+**  [![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.com)🎧
+I play my own!🤹🏿‍♀
 ## **Contact Me:** 
 
  <p align="center"> 
