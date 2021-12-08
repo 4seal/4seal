@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" width="200" alt="light bulb icon">
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile😊)](https://git.io/typing-svg)
 
  # **KIPROTICH**<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **DEPRO**
