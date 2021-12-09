@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" width="200" alt="light bulb icon">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile😊)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233336F7&multiline=true&width=480&lines=Welcome+To+kiprotich's+GitHub+profile%F0%9F%98%8A;Click+Here%F0%9F%91%87)](https://git.io/typing-svg)
 <details>
 <summary> 
 
