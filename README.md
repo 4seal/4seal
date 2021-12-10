@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=%23F78531&lines=%F0%9F%91%A8Kiprotich+Langat;%F0%9F%93%91Software+Developer;%F0%9F%93%A1Networking+Wizard;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBComputer+scientist;%F0%9F%98%8ANice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=%23F78531&lines=%F0%9F%91%A8Kiprotich+Langat;%F0%9F%93%91Software+Developer;%F0%9F%93%A1Networking+Wizard;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBComputer+scientist;%F0%9F%98%8ANice+to+meet+you...)](https://t.me/figis_pin)
 
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" width="200" alt="light bulb icon">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233336F7&multiline=true&width=480&lines=Welcome+To+kiprotich's+GitHub+profile%F0%9F%98%8A;Click+Here%F0%9F%91%87)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233336F7&multiline=false&width=480&lines=Welcome+To+kiprotich's+GitHub+profile%F0%9F%98%8A;Click+Here%F0%9F%91%87)](https://t.me/kippikbot)
 <details>
 <summary> 
 
