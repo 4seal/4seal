@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=%23F78531&lines=%F0%9F%91%A8Kiprotich+Langat;%F0%9F%93%91Software+Developer;%F0%9F%93%A1Networking+Wizard;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBComputer+scientist;%F0%9F%98%8ANice+to+meet+you...)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" width="200" alt="light bulb icon">
 
@@ -83,8 +85,6 @@ Ok chess is always my thing🥰
  <a href="https://t.me/figis_pin"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
 
  </p>
-
-
 
 <!--
 **4seal/4seal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
