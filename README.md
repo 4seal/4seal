@@ -9,7 +9,9 @@
 
  # **KIPROTICH**<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **DEPRO**</summary>
 
-  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=%2347F791&size=30&center=true&vCenter=true&lines=Let's+begin+😀%3A)](https://git.io/typing-svg)
+
+ - <u><i>This ain't all about me,feel free to contact me😉</i></u>
 
  - **TG DEPRO** 👨‍💼
 
